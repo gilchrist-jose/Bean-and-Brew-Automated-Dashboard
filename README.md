@@ -144,13 +144,6 @@ This architecture is reusable for any scenario requiring monthly/periodic data a
 
 ---
 
-## Related Work
-
-- [Financial Variance Analysis](https://github.com/gilchrist-jose/CloudSync-Financial-Variance-Analysis-2025) - Budget vs actual reporting with Power Query
-- [Sales Performance Dashboard](https://github.com/gilchrist-jose/TechGear-Sales-Analysis-2025) - Retail analytics dashboard
-
----
-
 ## Contact
 
 **Gilchrist Jose**  
