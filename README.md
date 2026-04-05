@@ -112,11 +112,7 @@ Power Query automatically detects the new file, appends it to historical data, a
 ```
 /
 ├── Bean_and_Brew_Dashboard.xlsx          # Dashboard workbook
-├── Dashboard_Screenshot.png              # Visual preview
-└── Sample_Data/
-    ├── Bean_and_Brew_Sales_Jan2025.csv
-    ├── Bean_and_Brew_Sales_Feb2025.csv
-    └── Bean_and_Brew_Sales_Mar2025.csv
+└── Dashboard_Screenshot.png              # Visual preview
 ```
 
 ---
